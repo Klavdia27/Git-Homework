@@ -5,4 +5,7 @@
     list-style: none;
     box-sizing: border-box;
   }
-  
+  body {
+    color: red;
+    font-size: 24px;
+  }
